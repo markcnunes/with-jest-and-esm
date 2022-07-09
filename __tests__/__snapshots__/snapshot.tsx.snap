@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <div
+    class="swiper swiper-initialized swiper-horizontal swiper-pointer-events"
+  >
+    <div
+      aria-live="polite"
+      class="swiper-wrapper"
+      id="swiper-wrapper-id"
+      style="cursor: grab; transition-duration: 0ms; transform: translate3d(NaNpx, 0px, 0px);"
+    >
+      <div
+        class="swiper-slide"
+      >
+        <div
+          class="card"
+        >
+          Slide 1
+        </div>
+      </div>
+      <div
+        class="swiper-slide"
+      >
+        <div
+          class="card"
+        >
+          Slide 2
+        </div>
+      </div>
+      <div
+        class="swiper-slide"
+      >
+        <div
+          class="card"
+        >
+          Slide 3
+        </div>
+      </div>
+      <div
+        class="swiper-slide"
+      >
+        <div
+          class="card"
+        >
+          Slide 4
+        </div>
+      </div>
+    </div>
+    ...
+    <span
+      aria-atomic="true"
+      aria-live="assertive"
+      class="swiper-notification"
+    />
+  </div>
+</div>
+`;
